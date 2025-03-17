@@ -35,7 +35,7 @@ It's like **a virtual assistant** that listens, understands, and responds **like
 ## 🔧 How to Set It Up  
 
 ### **1️⃣ Install Python** (if you don’t have it already)  
-Make sure **Python 3.7 or later** is installed on your computer.  
+Make sure **Python 3.10 or later** is installed on your computer.  
 
 ### **2️⃣ Clone This Project**  
 ```bash
